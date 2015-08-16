@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Kartofel
+Comment=A puzzle game where you have to connect the numbered dots
+Exec=kartofel
+Icon=kartofel.png
+Terminal=false
+Categories=Game;LogicGame;
